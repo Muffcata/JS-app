@@ -1,6 +1,1 @@
-document.addEventListener(
-  "mousemove",
-  _.throttle((e) => {
-    console.log(e);
-  }, 250)
-);
+console.log("Hello World!");
